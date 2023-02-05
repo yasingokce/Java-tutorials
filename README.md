@@ -1,2 +1,2 @@
-# cpp-tutorials
-c++ tutorials and important points
+# Java-tutorials
+Java tutorials and important points
